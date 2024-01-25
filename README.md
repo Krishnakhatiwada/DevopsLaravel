@@ -6,16 +6,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+## About Laravel
+
 ## Laravel Project to test Docker ####</b>
 1. Install Composer --Composer install </b>
 2. Install Node --npm install </b>
 3. Php artisan Migrate -- to push databases</b> 
 4. Php artisan serve -- to run the project
-
-
-
-
-## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
